@@ -10,3 +10,37 @@
     font-size: 20pt;
     width: 600px;
 }
+.Nome-page {
+    color:aquamarine;
+    font-size: 15pt;
+    width: 600px;
+}
+.Small-title {
+    color:darkgreen;
+    font-size: 10pt;
+    width: 600px;
+}
+.Big-title {
+    color: palevioletred;
+    font-size: 50pt;
+    width: 600px;
+}
+.Kallat {
+    accent-color: red;
+    color: fuchsia;
+    font-style: arial;
+
+}
+.h1 {
+    color: yellow;
+}
+.h1 {
+    color: pink;
+}
+.Name {
+    color: chartreuse;
+    font-size: 30pt;
+}
+.GGmain {
+    padding-right: 500px;
+}
